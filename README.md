@@ -1,4 +1,4 @@
-# ✈️ Delta Airlines Customer Support — Publisher Grade Site
+# ✈️ Delta Airlines Independent Customer Support — Publisher Grade Site
 **Phone:** 1(856)900-7834  
 **Live URL:** https://getlivesupport.github.io/Delta-Airlines/  
 **GitHub Repo:** getlivesupport/Delta-Airlines  
