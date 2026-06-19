@@ -1,0 +1,85 @@
+# =============================================
+# robots.txt — Delta Airlines Support Guide
+# https://getlivesupport.github.io/Delta-Airlines/
+# Updated: June 2025
+# =============================================
+
+User-agent: Googlebot
+Allow: /Delta-Airlines/
+Crawl-delay: 1
+
+User-agent: Googlebot-Image
+Allow: /Delta-Airlines/
+
+User-agent: Bingbot
+Allow: /Delta-Airlines/
+Crawl-delay: 2
+
+User-agent: msnbot
+Allow: /Delta-Airlines/
+
+User-agent: Applebot
+Allow: /Delta-Airlines/
+
+User-agent: DuckDuckBot
+Allow: /Delta-Airlines/
+
+# AI Crawlers — REQUIRED for AI Overview eligibility
+User-agent: GPTBot
+Allow: /Delta-Airlines/
+
+User-agent: ChatGPT-User
+Allow: /Delta-Airlines/
+
+User-agent: anthropic-ai
+Allow: /Delta-Airlines/
+
+User-agent: Claude-Web
+Allow: /Delta-Airlines/
+
+User-agent: PerplexityBot
+Allow: /Delta-Airlines/
+
+User-agent: CCBot
+Allow: /Delta-Airlines/
+
+User-agent: YouBot
+Allow: /Delta-Airlines/
+
+# Social crawlers
+User-agent: facebookexternalhit
+Allow: /Delta-Airlines/
+
+User-agent: Twitterbot
+Allow: /Delta-Airlines/
+
+User-agent: LinkedInBot
+Allow: /Delta-Airlines/
+
+# Block junk bots
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+# Global
+User-agent: *
+Allow: /Delta-Airlines/
+Disallow: /Delta-Airlines/admin/
+Disallow: /Delta-Airlines/staging/
+Disallow: /*?utm_*
+Disallow: /*?ref=*
+Disallow: /*?session_id=*
+
+Sitemap: https://getlivesupport.github.io/Delta-Airlines/sitemap.xml
+Host: https://getlivesupport.github.io
